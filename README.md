@@ -4,7 +4,7 @@ This project is to build a model, using historical data Focus on all steps of da
 #  Data Dictionary
 
 
-People
+#People
 ● ID: Customer's unique identifier
 ● Year_Birth: Customer's birth year
 ● Education: Customer's education level
